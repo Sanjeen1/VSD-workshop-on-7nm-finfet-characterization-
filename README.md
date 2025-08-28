@@ -38,6 +38,26 @@ In digital switching,Transconductance measures how strongly the input voltage (V
 
 ![Rout](https://github.com/user-attachments/assets/fce444a6-5475-43b9-8e32-a5b967cf476f)
 
+# Calculation of power -
+
+<img width="652" height="51" alt="image" src="https://github.com/user-attachments/assets/0e5f13f7-d4f4-4bb3-8615-3bdf682a5971" />
+
+<img width="719" height="251" alt="image" src="https://github.com/user-attachments/assets/a43a2e2f-4241-4217-a6ac-07d0d31345d1" />
+
+<img width="750" height="460" alt="image" src="https://github.com/user-attachments/assets/967b1039-467a-461b-bfdd-0dc20af0ab97" />
+
+Power = Energy / Time period , Energy is the voltage multiply with the area falls under the Idt plot. If we divide by Ton which is done here that gives us the average power only during the time the circuit is switching, not over the full clock cycle.
+
+
+
+# Observation 
+
+---> When Pfet width (no of fins increaded ) increases the VTC Curve shifts towards right side.
+---> When Nfet width (Nfin) increases the VTC curve shifts left side.
+
+
+
+
 
 
 

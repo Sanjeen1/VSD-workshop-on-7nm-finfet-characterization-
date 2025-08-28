@@ -129,9 +129,11 @@ The different plot by sweaping temperature.
 
 **For this run transient analysis**
 
-# ACKNOWLEDGEMENTS
+# Acknowledgements
 
- VSD SYSTEM DESIFGN (VSD)
+I would like to express my sincere gratitude to **Kunal Ghosh** and **Soundarya Madhuri Royyuru** for their valuable guidance and support. 
+
+ 
 
  
 

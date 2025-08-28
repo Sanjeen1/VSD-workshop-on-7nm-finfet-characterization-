@@ -1,6 +1,9 @@
 # VSD-workshop-on-7nm-finfet-characterization-
 This repository contains my work from the VLSI System Design (VSD) Workshop on 7nm FinFET Circuit Design and Characterization using the ASAP7 PDK.
 
+<p align="center"> <img width="330" height="168" alt="image" src="https://github.com/user-attachments/assets/434affcd-3498-41f0-99c0-bd2af91d7556" /> </p>
+
+
 ## 🚀 Objectives
 - Gain a deep understanding of **7nm FinFET device physics**  
 - Perform **SPICE-based circuit simulations** using the ASAP7 PDK  

@@ -119,7 +119,7 @@ A Bandgap Reference Circuit (BGR) is an analog integrated circuit block that gen
 
 <img width="699" height="511" alt="image" src="https://github.com/user-attachments/assets/1e4d8ebf-db93-4a7e-8dee-cf3249f47923" />
 
-**temperature is varied by .temp command.**
+**Temperature is varied by .temp command.**
 
 **For this run transient analysis**
 

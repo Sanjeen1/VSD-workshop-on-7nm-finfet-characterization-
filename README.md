@@ -20,6 +20,8 @@ This repository contains my work from the VLSI System Design (VSD) Workshop on 7
 
 # VTC Curve -
 
+<img width="465" height="68" alt="image" src="https://github.com/user-attachments/assets/da74719d-63a4-4bc4-b7d6-1352e6153dfb" />
+
 ![VTC Curve](https://github.com/user-attachments/assets/e02f6983-248e-4d1b-ba77-f99eb9e7f45f)
 
 Y axis is output voltage (nfet_out) and X axis is input voltage (nfet_in). The point where input voltage is equal to output voltage or the point where blue line intersects red line is known as switching threshold (denoted here by v_th).

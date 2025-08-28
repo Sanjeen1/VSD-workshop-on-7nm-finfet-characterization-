@@ -1,0 +1,11 @@
+---> When Pfet width (no of fins increaded ) increases the VTC Curve shifts towards right side.
+
+---> When Nfet width (Nfin) increases the VTC curve shifts left side.
+
+---> When width of any device nfet or pfet is increased then drain current will get increased also. 
+
+---> When Nfet size increased then gain increases.
+
+---> Gain decreases when pfet size increases.
+
+---> Power is increased in both case.

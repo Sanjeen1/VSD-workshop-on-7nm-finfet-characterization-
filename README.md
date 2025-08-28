@@ -56,6 +56,12 @@ Power = Energy / Time period , Energy is the voltage multiply with the area fall
 
 <img width="841" height="409" alt="image" src="https://github.com/user-attachments/assets/d1375ef8-2847-46df-b8be-96dab2582801" />
 
+# Propogation delay - 
+
+<img width="550" height="84" alt="image" src="https://github.com/user-attachments/assets/c9ac9269-4d4f-4339-9447-60d1457bf9cf" />
+
+tpr is time when input reaches to 50 percent of vdd and tpf is time when output voltage reaches to 50 percent of vdd. 
+
 # Observation 
 
 ---> When Pfet width (no of fins increaded ) increases the VTC Curve shifts towards right side.

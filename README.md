@@ -44,7 +44,7 @@ In digital switching,Transconductance measures how strongly the input voltage (V
 
 <img width="719" height="251" alt="image" src="https://github.com/user-attachments/assets/a43a2e2f-4241-4217-a6ac-07d0d31345d1" />
 
-<img width="750" height="460" alt="image" src="https://github.com/user-attachments/assets/967b1039-467a-461b-bfdd-0dc20af0ab97" />
+<img width="757" height="603" alt="image" src="https://github.com/user-attachments/assets/f60c36d1-c4ea-40f1-92db-f7dfc7943249" />
 
 Power = Energy / Time period , Energy is the voltage multiply with the area falls under the Idt plot. If we divide by Ton which is done here that gives us the average power only during the time the circuit is switching, not over the full clock cycle.
 

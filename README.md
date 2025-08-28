@@ -131,7 +131,7 @@ The different plot by sweaping temperature.
 
 # Acknowledgements
 
-I would like to express my sincere gratitude to **Kunal Ghosh** and **Soundarya Madhuri Royyuru** for their valuable guidance and support. 
+I would like to express my sincere gratitude to **Kunal Sir** and **Soundarya Madhuri Mam** for their valuable guidance and support. 
 
  
 

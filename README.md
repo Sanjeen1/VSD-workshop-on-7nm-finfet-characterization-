@@ -12,12 +12,7 @@ This repository contains my work from the VLSI System Design (VSD) Workshop on 7
 
 ---
 
-## 🛠️ Tools & Environment
-- **ASAP7 PDK** – 7nm FinFET device models  
-- **Ngspice** – Circuit simulation  
-- *(Optional)* Magic / Xschem for schematic & layout visual
-
-For my user name Sanjeen the ASCII sum in mv is 0.516
+**For my user name Sanjeen the ASCII sum in mv is 0.516**
 
 <img width="553" height="133" alt="image" src="https://github.com/user-attachments/assets/8462416d-9ae2-41b0-91f1-4d005192d84c" />
 

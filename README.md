@@ -79,6 +79,13 @@ tpr is time when input reaches to 50 percent of vdd and tpf is time when output 
 
 ---> Power is increased in both case.
 
+# Bandgap Reference circuit Design and Simulation using Xschem
+
+<img width="923" height="447" alt="image" src="https://github.com/user-attachments/assets/1b224e4e-a84a-4e69-b403-362626788fc4" />
+
+
+
+
 # ACKNOWLEDGEMENTS
 
  VSD SYSTEM DESIFGN (VSD)

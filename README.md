@@ -18,6 +18,35 @@ This repository contains my work from the VLSI System Design (VSD) Workshop on 7
 
 <img width="553" height="133" alt="image" src="https://github.com/user-attachments/assets/abb77b4d-5835-4de5-9802-0d9b4c307f8d" />
 
+# VTC Curve -
+
+![VTC Curve](https://github.com/user-attachments/assets/e02f6983-248e-4d1b-ba77-f99eb9e7f45f)
+
+Y axis is output voltage (nfet_out) and X axis is input voltage (nfet_in). The point where input voltage is equal to output voltage or the point where blue line intersects red line is known as switching threshold (denoted here by v_th).
+
+# Drain current -
+
+![Drain current](https://github.com/user-attachments/assets/2cd9e509-ed71-44df-aa22-9cf7946c95bb)
+
+# Transconductance - 
+
+![gm](https://github.com/user-attachments/assets/a02d5ae1-6da8-4a4a-ae1f-c079425fb355)
+
+In digital switching, measures how strongly the input voltage (V_{in}) can control the output current.High gm of NMOS and PMOS ensures fast and sharp switching.
+
+# Output resistance -
+
+![Rout](https://github.com/user-attachments/assets/fce444a6-5475-43b9-8e32-a5b967cf476f)
+
+
+
+
+
+
+
+
+
+
 
 
 

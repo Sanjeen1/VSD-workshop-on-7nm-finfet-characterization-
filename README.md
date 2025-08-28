@@ -70,6 +70,14 @@ tpr is time when input reaches to 50 percent of vdd and tpf is time when output 
 
 ---> When width of any device nfet or pfet is increased then drain current will get increased also. 
 
+---> When Nfet size increased then gain increases.
+
+---> Gain decreases when pfet size increases.
+
+---> Power is increased in both case.
+
+
+
 
 
 

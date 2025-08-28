@@ -83,8 +83,25 @@ tpr is time when input reaches to 50 percent of vdd and tpf is time when output 
 
 <img width="923" height="447" alt="image" src="https://github.com/user-attachments/assets/1b224e4e-a84a-4e69-b403-362626788fc4" />
 
+A Bandgap Reference Circuit (BGR) is an analog integrated circuit block that generates a constant DC reference voltage (typically around 1.2 V) which is:
 
+- Independent of supply voltage (VDD variations)
 
+- Stable over temperature changes
+
+- Robust against process variations
+  
+**CTAT (Complementary-To-Absolute-Temperature)**
+
+-The base–emitter voltage (Vbe) of a BJT (or diode-connected transistor).
+
+-Decreases with increasing temperature (≈ –2 mV/°C).
+
+**PTAT (Proportional-To-Absolute-Temperature)**
+
+- Generated from the difference of Vbe between two BJTs of different emitter areas, scaled by a resistor.
+
+- Increases with temperature (≈ +0.085 mV/°C).
 
 # ACKNOWLEDGEMENTS
 

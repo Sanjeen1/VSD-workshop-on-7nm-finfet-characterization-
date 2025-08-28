@@ -50,11 +50,16 @@ In digital switching,Transconductance measures how strongly the input voltage (V
 
 Power = Energy / Time period , Energy is the voltage multiply with the area falls under the Idt plot. If we divide by Ton which is done here that gives us the average power only during the time the circuit is switching, not over the full clock cycle.
 
+# Noise margin analysis- 
 
+<img width="781" height="274" alt="image" src="https://github.com/user-attachments/assets/2ba78de2-f2ea-478a-9a86-ba9a66c5f7d3" />
+
+<img width="841" height="409" alt="image" src="https://github.com/user-attachments/assets/d1375ef8-2847-46df-b8be-96dab2582801" />
 
 # Observation 
 
 ---> When Pfet width (no of fins increaded ) increases the VTC Curve shifts towards right side.
+
 ---> When Nfet width (Nfin) increases the VTC curve shifts left side.
 
 

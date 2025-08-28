@@ -32,11 +32,13 @@ Y axis is output voltage (nfet_out) and X axis is input voltage (nfet_in). The p
 
 ![gm](https://github.com/user-attachments/assets/a02d5ae1-6da8-4a4a-ae1f-c079425fb355)
 
-In digital switching, measures how strongly the input voltage (V_{in}) can control the output current.High gm of NMOS and PMOS ensures fast and sharp switching.
+In digital switching,Transconductance measures how strongly the input voltage (V_{in}) can control the output current.High gm ensures fast and sharp switching.
 
 # Output resistance -
 
 ![Rout](https://github.com/user-attachments/assets/fce444a6-5475-43b9-8e32-a5b967cf476f)
+
+
 
 
 

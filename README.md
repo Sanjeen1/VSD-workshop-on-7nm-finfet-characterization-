@@ -103,6 +103,20 @@ A Bandgap Reference Circuit (BGR) is an analog integrated circuit block that gen
 
 - Increases with temperature (≈ +0.085 mV/°C).
 
+**Methods to calculate reference voltage -**
+
+<img width="754" height="389" alt="image" src="https://github.com/user-attachments/assets/d03f7a79-bf9e-417f-96b6-809f38aede05" />
+
+<img width="537" height="51" alt="image" src="https://github.com/user-attachments/assets/82bdf488-db51-4548-8ecf-7b6f021655d5" />
+
+<img width="582" height="50" alt="image" src="https://github.com/user-attachments/assets/e87a8865-4320-43f8-a34a-709e15dd9744" />
+
+at vdd 0.8 , temp = 27 then Vref is 213 mV
+
+
+
+
+
 # ACKNOWLEDGEMENTS
 
  VSD SYSTEM DESIFGN (VSD)

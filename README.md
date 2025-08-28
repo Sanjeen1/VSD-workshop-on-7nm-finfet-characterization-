@@ -79,7 +79,11 @@ tpr is time when input reaches to 50 percent of vdd and tpf is time when output 
 
 ---> Power is increased in both case.
 
+# ACKNOWLEDGEMENTS
 
+ VSD SYSTEM DESIFGN (VSD)
+
+ 
 
 
 

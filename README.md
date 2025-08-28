@@ -68,6 +68,8 @@ tpr is time when input reaches to 50 percent of vdd and tpf is time when output 
 
 ---> When Nfet width (Nfin) increases the VTC curve shifts left side.
 
+---> When width of any device nfet or pfet is increased then drain current will get increased also. 
+
 
 
 

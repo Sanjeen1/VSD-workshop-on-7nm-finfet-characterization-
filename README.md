@@ -105,9 +105,9 @@ A Bandgap Reference Circuit (BGR) is an analog integrated circuit block that gen
 
 **Methods to calculate reference voltage -**
 
-<img width="754" height="389" alt="image" src="https://github.com/user-attachments/assets/d03f7a79-bf9e-417f-96b6-809f38aede05" />
+<img width="533" height="365" alt="image" src="https://github.com/user-attachments/assets/72c12d04-3ccf-43a5-86b3-a4a5540e84e0" />
 
-**Here sweaping the temperature from -45 to 125 with step size of 5, for more exact data we can change 5 to 1 and print Vref value by "print Vref".**
+**Here sweaping the temperature from -45 to 125 with step size of 1, and print Vref value by "print Vref" command.**
 
 <img width="582" height="50" alt="image" src="https://github.com/user-attachments/assets/e87a8865-4320-43f8-a34a-709e15dd9744" />
 

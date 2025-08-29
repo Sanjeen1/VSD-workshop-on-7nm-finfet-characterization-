@@ -135,6 +135,17 @@ The different plot by sweaping temperature.
 
 **For this run transient analysis**
 
+# Reference
+
+## References
+
+- Github [Bandgap Reference circuit]([https://github.com/username/vsdopen2021_bgr](https://github.com/RSMadhuri66/avsdbgr_7nm))  
+- Github [7nm Reference Repo](https://github.com/username/7nm-reference-repo)  
+- 7nm Research paper [hal science research paper](https://example.com/hal-paper)  
+- Ngspice Manual [Manual](https://ngspice.sourceforge.io/docs.html)  
+- Github [RSMadhuri](https://github.com/username/RSMadhuri)  
+- Github [sky130circuitdesign](https://github.com/username/sky130circuitdesign)  
+
 # Acknowledgements
 
 I would like to express my sincere gratitude to **Kunal Sir** and **Soundarya Madhuri Mam** for their valuable guidance and support. 

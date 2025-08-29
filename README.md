@@ -117,6 +117,8 @@ The different plot by sweaping temperature.
 
 <img width="844" height="193" alt="image" src="https://github.com/user-attachments/assets/2142d491-6671-41dd-b2e5-bf40f9a4a293" />
 
+K is the scaling factor which is the ratio of two resistor. R2 /R1.
+
 **Methods to calculate reference voltage -**
 
 <img width="533" height="365" alt="image" src="https://github.com/user-attachments/assets/72c12d04-3ccf-43a5-86b3-a4a5540e84e0" />

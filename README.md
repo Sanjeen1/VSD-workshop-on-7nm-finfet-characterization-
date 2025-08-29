@@ -139,11 +139,11 @@ The different plot by sweaping temperature.
 
 ## References
 
-- Github [Bandgap Reference circuit]((https://github.com/RSMadhuri66/avsdbgr_7nm)
-- Github [7nm Reference Repo]((https://github.com/AsahiroKenpachi/asap_7nm_Xschem))  
+- Github [Bandgap Reference circuit](https://github.com/RSMadhuri66/avsdbgr_7nm)
+- Github [7nm Reference Repo](https://github.com/AsahiroKenpachi/asap_7nm_Xschem)
 - 7nm Research paper [hal science research paper](https://example.com/hal-paper)  
 - Ngspice Manual [Manual](https://ngspice.sourceforge.io/docs.html)  
-- Github [7nm FINFET Inverter]((https://github.com/RSMadhuri66/Bandgap-Reference-Circuit-with-SCMB-with-ASAP-7nm-PDK-))  
+- Github [7nm FINFET Inverter](https://github.com/RSMadhuri66/Bandgap-Reference-Circuit-with-SCMB-with-ASAP-7nm-PDK-)
 
 # Acknowledgements
 

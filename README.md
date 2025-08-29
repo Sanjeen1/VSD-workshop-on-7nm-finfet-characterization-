@@ -137,8 +137,6 @@ The different plot by sweaping temperature.
 
 # Reference
 
-## References
-
 - Github [Bandgap Reference circuit](https://github.com/RSMadhuri66/avsdbgr_7nm)
 - Github [7nm Reference Repo](https://github.com/AsahiroKenpachi/asap_7nm_Xschem) 
 - Ngspice Manual [Manual](https://ngspice.sourceforge.io/docs.html)  

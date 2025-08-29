@@ -115,6 +115,8 @@ The different plot by sweaping temperature.
 
 <img width="1181" height="597" alt="image" src="https://github.com/user-attachments/assets/daaa37dc-6034-4439-a9e9-eb144c29e9fd" />
 
+<img width="844" height="193" alt="image" src="https://github.com/user-attachments/assets/2142d491-6671-41dd-b2e5-bf40f9a4a293" />
+
 **Methods to calculate reference voltage -**
 
 <img width="533" height="365" alt="image" src="https://github.com/user-attachments/assets/72c12d04-3ccf-43a5-86b3-a4a5540e84e0" />

@@ -19,6 +19,8 @@ This repository contains my work from the VLSI System Design (VSD) Workshop on 7
 
 The transition from planar MOSFETs to FinFETs was driven by the scaling limitations faced at advanced technology nodes, especially below 22nm. In planar MOSFETs, as the channel length shrinks, short-channel effects such as drain-induced barrier lowering (DIBL) and threshold voltage roll-off become significant, leading to higher leakage currents and poor gate control. FinFETs address this issue by introducing a three-dimensional “fin”-shaped channel with the gate wrapping around it on multiple sides. This structure provides much stronger electrostatic control over the channel, which suppresses leakage and improves subthreshold slope. In addition, the fin geometry increases the effective channel width per unit area, allowing FinFETs to deliver higher drive current and better performance without increasing footprint. This leads to improved switching speed and higher energy efficiency, making them ideal for low-power and high-performance applications. Moreover, FinFETs demonstrate superior scalability compared to planar MOSFETs, enabling continued Moore’s law progression. Overall, FinFET technology offers a balance of high performance, low power consumption, and robust scalability, which makes it far superior to planar MOSFETs in deep nanometer regimes
 
+<img width="1179" height="508" alt="image" src="https://github.com/user-attachments/assets/82b33d5b-8868-49ea-9f18-131fb66a7aad" />
+
 **For my user name Sanjeen the ASCII sum in mv is 0.516**
 
 <img width="553" height="133" alt="image" src="https://github.com/user-attachments/assets/8462416d-9ae2-41b0-91f1-4d005192d84c" />

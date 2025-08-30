@@ -146,11 +146,7 @@ K is the scaling factor which is the ratio of two resistor. R2 /R1.
 - Ngspice Manual [Manual](https://ngspice.sourceforge.io/docs.html)  
 - Github [7nm FINFET Inverter](https://github.com/RSMadhuri66/Bandgap-Reference-Circuit-with-SCMB-with-ASAP-7nm-PDK-)
 
-# Acknowledgements
 
-I would like to express my sincere gratitude to **Kunal Sir** and **Soundarya Madhuri Mam** for their valuable guidance and support. 
-
- 
 
  
 
